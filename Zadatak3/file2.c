@@ -12,7 +12,7 @@ void use_it() {
 int main()
 {
     use_it();
-    global_variable += 19;
+    global_variable += 25;
     use_it();
     increment ();
     //printf("Increment: %d\n", increment());
