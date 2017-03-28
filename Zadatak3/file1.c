@@ -2,7 +2,7 @@
 
 
 /* Variable defined here */
-int global_variable;
+static int global_variable;
 
 
 void initVar(){
